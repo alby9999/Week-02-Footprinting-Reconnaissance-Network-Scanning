@@ -190,7 +190,7 @@ The following screenshots document the commands and results obtained during the 
 
 2. WhatWeb – Technology Identification
 
-![WhatWeb](screenshots/PM1_02_WhatWeb.png)
+<img width="1492" height="215" alt="image" src="https://github.com/user-attachments/assets/2795481b-24f9-422b-9b22-cb39261d2daa" />
 
 3. Nslookup – DNS Lookup
 
